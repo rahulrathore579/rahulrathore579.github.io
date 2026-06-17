@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rahulrathore.me",
   "engines": {
     "node": "24.x"
   },
@@ -8,7 +9,9 @@
     "seo:generate": "node ./scripts/generate-seo-assets.mjs",
     "prebuild": "npm run seo:generate",
     "build": "node ./node_modules/vite/bin/vite.js build",
-    "preview": "node ./node_modules/vite/bin/vite.js preview --host"
+    "preview": "node ./node_modules/vite/bin/vite.js preview --host",
+    "predeploy": "npm run build",
+    "deploy": "node ./scripts/deploy-pages.mjs"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",

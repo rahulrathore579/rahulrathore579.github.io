@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋 Hi, I'm Rahul Rathore  
 
 🚀 **AI/ML Engineer | Generative AI Developer | Full Stack Developer**  
@@ -153,3 +154,6 @@ If you like my work, consider giving a ⭐ to my repositories!
 ## 💬 Quote  
 
 > "Building intelligent systems that make life smarter, faster, and better."
+=======
+# rahulrathore579.github.io
+>>>>>>> 10ade45d439a80990e9526d1fe6ba9e59cf5d928
