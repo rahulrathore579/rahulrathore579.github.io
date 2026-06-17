@@ -16,8 +16,8 @@ export default defineConfig({
   },
   preview: {
     allowedHosts: [
-      "rahulrathore579.onrender.com",
-      "*.vercel.app",
+      "rahulrathore.me",
+      "localhost",
     ],
   },
 });

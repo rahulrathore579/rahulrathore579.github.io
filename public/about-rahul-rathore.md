@@ -29,7 +29,7 @@
 - 💼 **LinkedIn**: [Rahul Rathore](https://linkedin.com/in/rahulrathore39769) - Professional updates and networking
 - 🐦 **Twitter/X**: [@rahulrathore579](https://twitter.com/rahulrathore579) - AI/Tech thoughts and industry insights
 - 📧 **Email**: rahulrathore39769@gmail.com
-- 🌐 **Portfolio**: [rahulrathore579.vercel.app](https://rahulrathore579.vercel.app)
+- 🌐 **Portfolio**: [rahulrathore.me](https://rahulrathore.me)
 
 *Based in Agra, Uttar Pradesh, India, Rahul Rathore is an emerging talent in the Indian tech ecosystem specializing in AI/ML and Generative AI solutions. Follow [@rahulrathore579 on Instagram](https://instagram.com/rahulrathore579) for daily updates, AI insights, and project demonstrations.*
 
@@ -140,7 +140,7 @@ Rahul believes in:
 - **Instagram**: [@rahulrathore579](https://instagram.com/rahulrathore579) — Daily AI insights & tech posts
 - **Twitter**: [@rahulrathore579](https://twitter.com/rahulrathore579) — Tech updates & discussions
 - **Email**: rahulrathore39769@gmail.com
-- **Portfolio**: [https://rahulrathore579.vercel.app](https://rahulrathore579.vercel.app)
+- **Portfolio**: [https://rahulrathore.me](https://rahulrathore.me)
 - **Location**: Tajganj, Agra, Uttar Pradesh, India
 - **Phone**: Available upon request
 

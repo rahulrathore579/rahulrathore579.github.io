@@ -9,7 +9,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://rahulrathore579.vercel.app"><img src="https://img.shields.io/badge/🌍 Portfolio-000?style=for-the-badge&logo=vercel"></a>
+  <a href="https://rahulrathore.me"><img src="https://img.shields.io/badge/🌍 Portfolio-000?style=for-the-badge&logo=vercel"></a>
   <a href="https://linkedin.com/in/RahulRathore579"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/rahulrathore579"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
   <a href="https://instagram.com/rahulrathore579"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
@@ -147,7 +147,7 @@ If you like my work, consider giving a ⭐ to my repositories!
 ---
 
 ## Discover More
-- **Portfolio**: [rahulrathore579.vercel.app](https://rahulrathore579.vercel.app)
+- **Portfolio**: [rahulrathore.me](https://rahulrathore.me)
 - **LinkedIn**: [Rahul Rathore](https://linkedin.com/in/rahulrathore39769)
 - **GitHub**: [rahulrathore579](https://github.com/rahulrathore579)
 

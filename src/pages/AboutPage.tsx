@@ -15,11 +15,11 @@ export default function AboutPage() {
     '@graph': [
       {
         '@type': 'ProfilePage',
-        url: 'https://rahulrathore579.vercel.app/about',
+        url: 'https://rahulrathore.me/about',
         name: 'About Rahul Rathore',
         mainEntity: {
           '@type': 'Person',
-          '@id': 'https://rahulrathore579.vercel.app/#person',
+          '@id': 'https://rahulrathore.me/#person',
           name: 'Rahul Rathore',
           sameAs: [
             'https://github.com/rahulrathore579',
@@ -36,13 +36,13 @@ export default function AboutPage() {
             '@type': 'ListItem',
             position: 1,
             name: 'Home',
-            item: 'https://rahulrathore579.vercel.app/'
+            item: 'https://rahulrathore.me/'
           },
           {
             '@type': 'ListItem',
             position: 2,
             name: 'About',
-            item: 'https://rahulrathore579.vercel.app/about'
+            item: 'https://rahulrathore.me/about'
           }
         ]
       }

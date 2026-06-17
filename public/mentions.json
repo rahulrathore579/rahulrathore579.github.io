@@ -2,7 +2,7 @@
   "profile": {
     "name": "Rahul Rathore",
     "handle": "rahulrathore579",
-    "url": "https://rahulrathore579.vercel.app/",
+    "url": "https://rahulrathore.me/",
     "description": "AI and ML Developer, founder of Fluenzy AI, and creator of Zapkart Smart Cart.",
     "sameAs": [
       "https://github.com/rahulrathore579",
@@ -27,14 +27,14 @@
     }
   ],
   "canonicalSources": [
-    "https://rahulrathore579.vercel.app/",
-    "https://rahulrathore579.vercel.app/about",
-    "https://rahulrathore579.vercel.app/faq",
-    "https://rahulrathore579.vercel.app/projects",
-    "https://rahulrathore579.vercel.app/contact",
-    "https://rahulrathore579.vercel.app/press",
-    "https://rahulrathore579.vercel.app/structured-data.json",
-    "https://rahulrathore579.vercel.app/llms.txt"
+    "https://rahulrathore.me/",
+    "https://rahulrathore.me/about",
+    "https://rahulrathore.me/faq",
+    "https://rahulrathore.me/projects",
+    "https://rahulrathore.me/contact",
+    "https://rahulrathore.me/press",
+    "https://rahulrathore.me/structured-data.json",
+    "https://rahulrathore.me/llms.txt"
   ],
   "updatedAt": "2026-06-17"
 }

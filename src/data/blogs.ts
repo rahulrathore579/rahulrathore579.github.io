@@ -61,7 +61,7 @@ Fluenzy AI won the prestigious **AI Nirman 2026** competition — one of India's
 
 ## What's Next for Fluenzy AI
 
-We're expanding to B2B — partnering with colleges across India to provide campus-wide access. If you're an educator or investor interested in improving English communication through AI, [reach out to me](https://rahulrathore579.vercel.app/contact).
+We're expanding to B2B — partnering with colleges across India to provide campus-wide access. If you're an educator or investor interested in improving English communication through AI, [reach out to me](https://rahulrathore.me/contact).
     `,
   },
   {
@@ -281,9 +281,9 @@ If your portfolio doesn't show up when someone Googles your name, it's wasting i
 Your portfolio is also your brand. Make sure it reflects who you are:
 - Write a compelling "About" section with your actual story
 - Include your achievements and certifications
-- Add a blog (like I did at [rahulrathore579.vercel.app](https://rahulrathore579.vercel.app)) to show thought leadership
+- Add a blog (like I did at [rahulrathore.me](https://rahulrathore.me)) to show thought leadership
 
-I'm Rahul Rathore — AI/ML Developer and Co-Founder of Fluenzy AI. Check out my [projects](https://rahulrathore579.vercel.app/projects) for inspiration.
+I'm Rahul Rathore — AI/ML Developer and Co-Founder of Fluenzy AI. Check out my [projects](https://rahulrathore.me/projects) for inspiration.
     `,
   },
   {

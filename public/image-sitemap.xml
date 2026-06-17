@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://rahulrathore579.vercel.app/</loc>
+	<loc>https://rahulrathore.me/</loc>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/rahul-rathore-developer.jpeg</image:loc>
+	<image:loc>https://rahulrathore.me/rahul-rathore-developer.jpeg</image:loc>
 <image:title>Rahul Rathore AI Developer</image:title>
 </image:image>
 </url>
 <url>
-<loc>https://rahulrathore579.vercel.app/about</loc>
+	<loc>https://rahulrathore.me/about</loc>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/rahul-rathore-developer.jpeg</image:loc>
+	<image:loc>https://rahulrathore.me/rahul-rathore-developer.jpeg</image:loc>
 <image:title>Rahul Rathore Profile</image:title>
 </image:image>
 </url>
 <url>
-<loc>https://rahulrathore579.vercel.app/projects</loc>
+	<loc>https://rahulrathore.me/projects</loc>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/projects/fluenzyai.png</image:loc>
+	<image:loc>https://rahulrathore.me/projects/fluenzyai.png</image:loc>
 <image:title>Fluenzy AI Platform</image:title>
 </image:image>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/projects/zapkart.png</image:loc>
+	<image:loc>https://rahulrathore.me/projects/zapkart.png</image:loc>
 <image:title>Zapkart Smart Cart</image:title>
 </image:image>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/projects/image1copy.png</image:loc>
+	<image:loc>https://rahulrathore.me/projects/image1copy.png</image:loc>
 <image:title>AI Smart Classroom</image:title>
 </image:image>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/projects/image3copy.png</image:loc>
+	<image:loc>https://rahulrathore.me/projects/image3copy.png</image:loc>
 <image:title>Healthcare IoT Monitor</image:title>
 </image:image>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/projects/imagecopy2.png</image:loc>
+	<image:loc>https://rahulrathore.me/projects/imagecopy2.png</image:loc>
 <image:title>Product Recognition CNN</image:title>
 </image:image>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/projects/imagecopy3.png</image:loc>
+	<image:loc>https://rahulrathore.me/projects/imagecopy3.png</image:loc>
 <image:title>Data Analytics Dashboard</image:title>
 </image:image>
 </url>
 <url>
-<loc>https://rahulrathore579.vercel.app/skills</loc>
+	<loc>https://rahulrathore.me/skills</loc>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/rahul-rathore-developer.jpeg</image:loc>
+	<image:loc>https://rahulrathore.me/rahul-rathore-developer.jpeg</image:loc>
 <image:title>Rahul Rathore Skills</image:title>
 </image:image>
 </url>
 <url>
-<loc>https://rahulrathore579.vercel.app/contact</loc>
+	<loc>https://rahulrathore.me/contact</loc>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/rahul-rathore-developer.jpeg</image:loc>
+	<image:loc>https://rahulrathore.me/rahul-rathore-developer.jpeg</image:loc>
 <image:title>Rahul Rathore Contact</image:title>
 </image:image>
 </url>
 <url>
-<loc>https://rahulrathore579.vercel.app/faq</loc>
+	<loc>https://rahulrathore.me/faq</loc>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/rahul-rathore-developer.jpeg</image:loc>
+	<image:loc>https://rahulrathore.me/rahul-rathore-developer.jpeg</image:loc>
 <image:title>Rahul Rathore FAQ</image:title>
 </image:image>
 </url>
 <url>
-<loc>https://rahulrathore579.vercel.app/press</loc>
+	<loc>https://rahulrathore.me/press</loc>
 <image:image>
-<image:loc>https://rahulrathore579.vercel.app/rahul-rathore-developer.jpeg</image:loc>
+	<image:loc>https://rahulrathore.me/rahul-rathore-developer.jpeg</image:loc>
 <image:title>Rahul Rathore Press</image:title>
 </image:image>
 </url>

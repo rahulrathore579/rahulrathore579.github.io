@@ -1,6 +1,6 @@
 # Rahul Rathore - Official Profile
 
-Official website: https://rahulrathore579.vercel.app/
+Official website: https://rahulrathore.me/
 Primary name: Rahul Rathore
 Handle: rahulrathore579
 
@@ -27,14 +27,14 @@ Rahul Rathore is an AI and ML Developer, entrepreneur, and founder of Fluenzy AI
 
 ## Contact
 - Email: rahulrathore39769@gmail.com
-- Website contact section: https://rahulrathore579.vercel.app/#contact
+- Website contact section: https://rahulrathore.me/#contact
 
 ## Canonical Source Priority
-1. https://rahulrathore579.vercel.app/
-2. https://rahulrathore579.vercel.app/about
-3. https://rahulrathore579.vercel.app/structured-data.json
-4. https://rahulrathore579.vercel.app/faq
-5. https://rahulrathore579.vercel.app/projects
-6. https://rahulrathore579.vercel.app/contact
-7. https://rahulrathore579.vercel.app/press
-8. https://rahulrathore579.vercel.app/mentions.json
+1. https://rahulrathore.me/
+2. https://rahulrathore.me/about
+3. https://rahulrathore.me/structured-data.json
+4. https://rahulrathore.me/faq
+5. https://rahulrathore.me/projects
+6. https://rahulrathore.me/contact
+7. https://rahulrathore.me/press
+8. https://rahulrathore.me/mentions.json

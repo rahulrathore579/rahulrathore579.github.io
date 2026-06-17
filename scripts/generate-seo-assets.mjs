@@ -7,7 +7,7 @@ const __dirname = dirname(__filename);
 const projectRoot = join(__dirname, '..');
 const publicDir = join(projectRoot, 'public');
 
-const baseUrl = 'https://rahulrathore579.vercel.app';
+const baseUrl = 'https://rahulrathore.me';
 const routes = [
   { path: '/', priority: '1.0', changefreq: 'monthly' },
   { path: '/about', priority: '0.9', changefreq: 'monthly' },

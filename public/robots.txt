@@ -66,8 +66,6 @@ Allow: *.gif
 Crawl-delay: 1
 
 # Image Sitemaps
-Sitemap: https://rahulrathore579.vercel.app/sitemap.xml
-Sitemap: https://rahulrathore579.vercel.app/image-sitemap.xml
-Sitemap: https://rahulrathore579.vercel.app/public/sitemap.xml
-Sitemap: https://rahulrathore579.vercel.app/public/image-sitemap.xml
+Sitemap: https://rahulrathore.me/sitemap.xml
+Sitemap: https://rahulrathore.me/image-sitemap.xml
 

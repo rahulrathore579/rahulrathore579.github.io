@@ -3,12 +3,12 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://rahulrathore579.vercel.app/#person",
+      "@id": "https://rahulrathore.me/#person",
       "name": "Rahul Rathore",
       "alternateName": ["rahul", "rahulrathore579"],
-      "url": "https://rahulrathore579.vercel.app/",
+      "url": "https://rahulrathore.me/",
       "email": "rahulrathore39769@gmail.com",
-      "image": "https://rahulrathore579.vercel.app/rahul-rathore-developer.jpeg",
+      "image": "https://rahulrathore.me/rahul-rathore-developer.jpeg",
       "sameAs": [
         "https://github.com/rahulrathore579",
         "https://linkedin.com/in/rahulrathore39769",
@@ -18,7 +18,7 @@
       ],
       "jobTitle": ["AI Developer", "ML Developer", "Web Developer", "Data Analyst", "Entrepreneur"],
       "worksFor": {
-        "@id": "https://rahulrathore579.vercel.app/#organization"
+        "@id": "https://rahulrathore.me/#organization"
       },
       "alumniOf": {
         "@type": "CollegeOrUniversity",
@@ -29,30 +29,30 @@
     },
     {
       "@type": "Organization",
-      "@id": "https://rahulrathore579.vercel.app/#organization",
+      "@id": "https://rahulrathore.me/#organization",
       "name": "Fluenzy AI",
       "founder": {
-        "@id": "https://rahulrathore579.vercel.app/#person"
+        "@id": "https://rahulrathore.me/#person"
       }
     },
     {
       "@type": "WebSite",
-      "@id": "https://rahulrathore579.vercel.app/#website",
-      "url": "https://rahulrathore579.vercel.app/",
+      "@id": "https://rahulrathore.me/#website",
+      "url": "https://rahulrathore.me/",
       "name": "Rahul Rathore Portfolio",
       "publisher": {
-        "@id": "https://rahulrathore579.vercel.app/#person"
+        "@id": "https://rahulrathore.me/#person"
       }
     },
     {
       "@type": "ProfilePage",
-      "@id": "https://rahulrathore579.vercel.app/#profile",
-      "url": "https://rahulrathore579.vercel.app/",
+      "@id": "https://rahulrathore.me/#profile",
+      "url": "https://rahulrathore.me/",
       "mainEntity": {
-        "@id": "https://rahulrathore579.vercel.app/#person"
+        "@id": "https://rahulrathore.me/#person"
       },
       "about": {
-        "@id": "https://rahulrathore579.vercel.app/#person"
+        "@id": "https://rahulrathore.me/#person"
       }
     }
   ]

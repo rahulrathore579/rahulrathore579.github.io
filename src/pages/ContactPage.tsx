@@ -23,11 +23,11 @@ export default function ContactPage() {
     '@graph': [
       {
         '@type': 'ContactPage',
-        url: 'https://rahulrathore579.vercel.app/contact',
+        url: 'https://rahulrathore.me/contact',
         name: 'Contact Rahul Rathore',
         mainEntity: {
           '@type': 'Person',
-          '@id': 'https://rahulrathore579.vercel.app/#person',
+          '@id': 'https://rahulrathore.me/#person',
           name: 'Rahul Rathore',
           email: 'rahulrathore39769@gmail.com',
           telephone: '+91 7505238914',
@@ -45,13 +45,13 @@ export default function ContactPage() {
             '@type': 'ListItem',
             position: 1,
             name: 'Home',
-            item: 'https://rahulrathore579.vercel.app/'
+            item: 'https://rahulrathore.me/'
           },
           {
             '@type': 'ListItem',
             position: 2,
             name: 'Contact',
-            item: 'https://rahulrathore579.vercel.app/contact'
+            item: 'https://rahulrathore.me/contact'
           }
         ]
       }

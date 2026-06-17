@@ -6,7 +6,7 @@ type SeoOptions = {
   canonicalPath: string;
 };
 
-const SITE_URL = 'https://rahulrathore579.vercel.app';
+const SITE_URL = 'https://rahulrathore.me';
 
 function upsertMeta(name: string, content: string) {
   let tag = document.querySelector(`meta[name="${name}"]`) as HTMLMetaElement | null;

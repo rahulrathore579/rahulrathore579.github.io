@@ -52,13 +52,13 @@ export default function ProjectsPage() {
             '@type': 'ListItem',
             position: 1,
             name: 'Home',
-            item: 'https://rahulrathore579.vercel.app/'
+            item: 'https://rahulrathore.me/'
           },
           {
             '@type': 'ListItem',
             position: 2,
             name: 'Projects',
-            item: 'https://rahulrathore579.vercel.app/projects'
+            item: 'https://rahulrathore.me/projects'
           }
         ]
       }

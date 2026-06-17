@@ -31,9 +31,9 @@ export default function PressPage() {
       {
         '@type': 'CollectionPage',
         name: 'Press and Achievements of Rahul Rathore',
-        url: 'https://rahulrathore579.vercel.app/press',
+        url: 'https://rahulrathore.me/press',
         about: {
-          '@id': 'https://rahulrathore579.vercel.app/#person'
+          '@id': 'https://rahulrathore.me/#person'
         }
       },
       {
@@ -43,13 +43,13 @@ export default function PressPage() {
             '@type': 'ListItem',
             position: 1,
             name: 'Home',
-            item: 'https://rahulrathore579.vercel.app/'
+            item: 'https://rahulrathore.me/'
           },
           {
             '@type': 'ListItem',
             position: 2,
             name: 'Press',
-            item: 'https://rahulrathore579.vercel.app/press'
+            item: 'https://rahulrathore.me/press'
           }
         ]
       }

@@ -64,6 +64,11 @@ try {
 
   copyDirectory(distDir, worktreeDir);
 
+  const cnamePath = join(repoRoot, "CNAME");
+  if (existsSync(cnamePath)) {
+    copyFileSync(cnamePath, join(worktreeDir, "CNAME"));
+  }
+
   execFileSync("git", ["add", "-A"], { cwd: worktreeDir, stdio: "inherit" });
 
   const status = execFileSync("git", ["status", "--porcelain"], {

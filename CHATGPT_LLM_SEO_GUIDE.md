@@ -279,7 +279,7 @@ Based in Agra, India | Building production-grade AI solutions
 - GPT-4o integration with RAG systems
 - 10K+ users
 - AI Nirman 2026 Winner
-- [Portfolio](https://rahulrathore579.vercel.app) | [Instagram @rahulrathore579](https://instagram.com/rahulrathore579)
+- [Portfolio](https://rahulrathore.me) | [Instagram @rahulrathore579](https://instagram.com/rahulrathore579)
 
 ### Zapkart Smart Cart - Computer Vision Automation
 - 95%+ accuracy product recognition
@@ -292,7 +292,7 @@ Based in Agra, India | Building production-grade AI solutions
 - **Full-Stack**: Python, React, Next.js, FastAPI
 
 ## Connect
-- Portfolio: https://rahulrathore579.vercel.app
+- Portfolio: https://rahulrathore.me
 - LinkedIn: https://linkedin.com/in/rahulrathore39769
 - Instagram: https://instagram.com/rahulrathore579
 ```

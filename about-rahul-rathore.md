@@ -147,7 +147,7 @@ Rahul believes in:
 - **Instagram**: [@rahulrathore579](https://instagram.com/rahulrathore579) - Content & updates
 - **Twitter/X**: [@rahulrathore579](https://twitter.com/rahulrathore579) - AI & Tech insights
 - **Email**: rahulrathore39769@gmail.com
-- **Portfolio**: [https://rahulrathore579.vercel.app](https://rahulrathore579.vercel.app)
+- **Portfolio**: [https://rahulrathore.me](https://rahulrathore.me)
 
 ---
 
