@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Allow: /public/
 Disallow: /dashboard/
 Disallow: /login
 
